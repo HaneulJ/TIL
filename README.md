@@ -76,7 +76,7 @@ $ git log
 
 ```
 $ git config --global user.name "Haneul Jeong"
-$ git config --global user.email "gksmfdl0510@gmail.com"
+$ git config --global user.email "haneulj0510@gmail.com"
 ```
 
 
