@@ -11,8 +11,8 @@ $ git init
 ```
 
 ```
-$ touch myfiles.txt
-$ git add myfiles.txt
+$ touch myfile.txt
+$ git add myfile.txt
 $ git commit -m "first commit"
 ```
 
