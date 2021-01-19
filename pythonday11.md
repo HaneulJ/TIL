@@ -9,7 +9,7 @@
 
 ```
 # f를 먼저 써줘야 문자열안에 있는 {}들이 실행된다.
->>> f.write(f"""오늘은 {now.tm_year}년 {now.tm_mon:02d}월 {now.tm_mday:02d}일입니다.
+>>> f.write(f"오늘은 {now.tm_year}년 {now.tm_mon:02d}월 {now.tm_mday:02d}일입니다.")
 ```
 
 ```
