@@ -21,7 +21,6 @@
 
 * HTML파일 안에 구현하는 프로그래밍 언어, 인터프리터 언어
 * `<script> </script>`태그의 컨텐트로 작성하거나 HTML태그에 정의된 속성의 값으로 작성
-  * `console.log
 * 파이썬, R과 비슷한 구문(인터프리터 언어)
 
 * 값이 없는 literal: undefined, null
