@@ -77,7 +77,7 @@ return render(request, 'exam2_1.html', context)
 * 공백문자: **`+`** or **`%2C`** 로 전달
 * Query문자열을 가지고 HTTP Server에게 정보를 요청할 때: **GET과 POST**
   * **`GET`**방식: 유사 dic, 문자열이 외부에 나타남, url 뒤에 `?`와 함께 전달
-  * **`POST`**방식 일 때는 url에 **query 나타나지 않음** (로그인할 때), 반드시 `<form>`를 사용해야 `POST` 사용 가능, Query문자열 길이 제한 X
+  * **`POST`**방식 일 때는 url에 **query 나타나지 않음** (로그인할 때), 반드시 `<form>`를 사용해야 `POST` 사용 가능, Query문자열 길이 제한X
 * 
 
 
