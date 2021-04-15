@@ -29,7 +29,6 @@
   * Lineage: operation의 순서를 기록해 DAG로 표현, Transformation 연산 정보를 보관
 
 
-
 * 연산의 수행 결과가 RDD 이면 Transformation
 * Transformation 은 기존 RDD 를 이용해 새로운 RDD를 생성하는 연산 
   * 변환, 필터링 등의 작업들 : 맵 , 그룹화 , 필터 , 정렬
